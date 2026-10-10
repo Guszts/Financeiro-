@@ -1,0 +1,6 @@
+{
+  "name": "Dinheiro Organizado — E-book de Finanças Pessoais",
+  "description": "O Guia Prático para Cuidar Melhor das Suas Finanças. Aprenda a organizar seus gastos, planejar seu dinheiro, criar metas e desenvolver hábitos financeiros mais conscientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
